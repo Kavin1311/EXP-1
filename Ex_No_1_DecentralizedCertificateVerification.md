@@ -39,5 +39,9 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# output:
+True:<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0689d2b1-25e0-4316-9d44-a71e03f70441" />
+False:<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/03fd9a86-f9f5-4d41-894d-f0f16e54f5de" />
 
+# Result:
+THUS DECENTRALISED CERTIFACTE HAS BEEN VERIFIED SUCCESSFULLY
