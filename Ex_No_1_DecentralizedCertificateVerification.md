@@ -1,4 +1,7 @@
+
 ### Experiment 1: Decentralized Certificate Verification
+# NAME:T.KAVINAJAI
+# REGISTER NO: 212223100020
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
